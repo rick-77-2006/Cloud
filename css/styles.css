@@ -148,7 +148,7 @@ body {
 }
 .mask-group-2 {
   position: absolute;
-  top: 515px;
+  top: 115px;
   left: 701px;
   width: 1425px;
   height: 910px;
@@ -591,7 +591,7 @@ body {
 .vector-icon2,
 .vector-icon3 {
   position: absolute;
-  top: 0; /* 0 */
+  top: 0;
   left: 678.5px;
   width: 1347.8px;
   height: 917.86px;
