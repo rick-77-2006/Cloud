@@ -591,9 +591,9 @@ body {
 .vector-icon2,
 .vector-icon3 {
   position: absolute;
-  top: 0;
+  top: 0; /* 0 */
   left: 678.5px;
-  width: 1347.8px;
+  width: 347.8px;
   height: 917.86px;
 }
 .group-icon1,
