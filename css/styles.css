@@ -143,7 +143,8 @@ body {
 .ellipse-icon2 {
   top: 0;
   left: 291px;
-  width: 1149px;
+  /* width: 1149px; */
+  width: 10px;
   height: 914px;
   opacity: 0.8;
 }
@@ -386,9 +387,12 @@ body {
 .ellipse-icon3 {
   position: absolute;
   top: 0;
-  left: 352px;
-  width: 1054px;
-  height: 842px;
+  /* left: 352px; */
+  left: 0px;
+  /* width: 1054px; */
+  width: 0px;
+  /* height: 842px; */
+  height: 0px;
   opacity: 0.35;
 }
 .rectangle-div6 {
@@ -592,14 +596,15 @@ body {
 .vector-icon2,
 .vector-icon3 {
   position: absolute;
-  top: 0;
+  top: 100px;
   left: 678.5px;
   width: 1347.8px;
   height: 917.86px;
 }
 .group-icon1,
 .vector-icon3 {
-  top: 3.51px;
+  /* top: 3.51px; */
+  top: 100px;
   left: 693.5px;
   height: 908.44px;
 }
