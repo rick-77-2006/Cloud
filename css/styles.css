@@ -152,7 +152,8 @@ body {
   top: 115px;
   left: 701px;
   width: 1425px;
-  height: 910px;
+  /* height: 910px; */
+  height: 1750px;
   object-fit: cover;
 }
 .tbcc-cloud-stands-for-open-s,
