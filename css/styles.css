@@ -164,7 +164,7 @@ body {
   display: inline-block;
 }
 .what-is-tbcc-cloud {
-  top: 970px;
+  top: 1150px;
   left: 412px;
   font-size: 36px;
   width: 685px;
@@ -179,7 +179,7 @@ body {
 }
 .rectangle-div3 {
   position: absolute;
-  top: 0;
+  top: 350px;
   left: 630px;
   border-radius: 24px;
   background-color: #1f2032;
