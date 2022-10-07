@@ -1089,7 +1089,7 @@ body {
   left: 365.62px;
   width: 853.52px;
   height: 434.91px;
-  transform: rotate(-15deg);
+  /* transform: rotate(-15deg); */
   font-size: 18px;
 }
 .rectangle-div20 {
@@ -1137,7 +1137,7 @@ body {
   left: -138.12px;
   width: 1416.66px;
   height: 1756.18px;
-  transform: rotate(-15deg);
+  /* transform: rotate(-15deg); */
   font-size: 36px;
 }
 .rectangle-div21 {
