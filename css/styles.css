@@ -68,14 +68,15 @@ body {
 }
 .rectangle-div1 {
   top: 0;
-  border-radius: 12px;
+  border-radius: 10px;
   background: linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.2),
-      rgba(255, 255, 255, 0)
-    ),
-    linear-gradient(96.59deg, #a77eee, #5f63f8);
-  height: 65px;
+    180deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0)
+  );
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  height: 43px;
 }
 .schedule-a-demo {
   top: 22px;
@@ -164,13 +165,13 @@ body {
   display: inline-block;
 }
 .what-is-tbcc-cloud {
-  top: 950px;
+  top: 1800px;
   left: 412px;
   font-size: 36px;
   width: 685px;
 }
 .tbcc-cloud-stands-for-open-s {
-  top: 1039px;
+  top: 1850px;
   left: 319px;
   line-height: 28px;
   font-weight: 500;
@@ -573,7 +574,7 @@ body {
   );
   border: 1px solid rgba(255, 255, 255, 0.1);
   box-sizing: border-box;
-  height: 42px;
+  height: 43px;
 }
 .get-in-toutch,
 .group-div15,
@@ -1047,7 +1048,7 @@ body {
 .rectangle-div19 {
   position: absolute;
   top: -15.41px;
-  left: 65.5px;
+  left: 425px;
   border-radius: 24px;
   background-color: #1f2032;
   width: 822px;
@@ -1066,7 +1067,7 @@ body {
 .you-can-either-build-your-cryp {
   position: absolute;
   top: 14.59px;
-  left: 105.5px;
+  left: 475px;
   line-height: 28px;
   font-weight: 600;
   display: inline-block;
@@ -1094,7 +1095,7 @@ body {
 }
 .rectangle-div20 {
   top: -5.69px;
-  left: 843.25px;
+  left: 90px;
   border-radius: 24px;
   background-color: #1f2032;
   width: 822px;
