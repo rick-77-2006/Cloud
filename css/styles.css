@@ -1083,13 +1083,20 @@ body {
 }
 
 .you-can-either-build-your-cryp {
-  position: absolute;
+  /*
+   line-height: 28px;
+   display: inline-block;
+  width: 644px;
+  */
   top: 14.59px;
   left: 475px;
-  line-height: 28px;
   font-weight: 600;
-  display: inline-block;
-  width: 644px;
+  display: none;
+  position: absolute;
+  /* background-color: #f9f9f9; */
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
 }
 
 .how-to-launch-your-cryptocurre {
@@ -1102,19 +1109,6 @@ body {
   display: inline-block;
 }
 
-.you-can-either-build-your-cryp {
-  /*top: 14.59px;
-  left: 475px;
-  line-height: 28px;
-  font-weight: 600;
-  width: 644px;*/
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px 16px;
-  z-index: 1;
-}
 
 .how-to-launch-your-cryptocurre:hover
 .you-can-either-build-your-cryp {
