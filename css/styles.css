@@ -165,13 +165,13 @@ body {
   display: inline-block;
 }
 .what-is-tbcc-cloud {
-  top: 1800px;
+  top: 1092px;
   left: 412px;
   font-size: 36px;
   width: 685px;
 }
 .tbcc-cloud-stands-for-open-s {
-  top: 1850px;
+  top: 1187px;
   left: 319px;
   line-height: 28px;
   font-weight: 500;
@@ -180,8 +180,8 @@ body {
 }
 .rectangle-div3 {
   position: absolute;
-  top: 350px;
-  left: 630px;
+  top: 161px;
+  left: 13px;
   border-radius: 24px;
   background-color: #1f2032;
   width: 630px;
@@ -191,7 +191,7 @@ body {
 }
 .polygon-icon {
   position: absolute;
-  top: 44px;
+  top: 194px;
   left: 298.87px;
   border-radius: 4px;
   width: 44px;
@@ -201,19 +201,19 @@ body {
 .cloud-b,
 .learn-more {
   position: absolute;
-  top: 89px;
+  top: 252px;
   left: 3px;
   display: inline-block;
   width: 623px;
 }
 .a-turnkey-white-label-crypto-e,
 .learn-more {
-  top: 250px;
+  top: 408px;
   font-size: 16px;
   font-weight: 600;
 }
 .a-turnkey-white-label-crypto-e {
-  top: 133px;
+  top: 291px;
   left: 104px;
   line-height: 28px;
   font-weight: 500;
@@ -345,7 +345,7 @@ body {
 }
 .polygon-icon1 {
   position: absolute;
-  top: 44.62px;
+  top: 198px;
   left: 304.01px;
   border-radius: 4px;
   width: 30px;
@@ -357,20 +357,20 @@ body {
   display: inline-block;
 }
 .learn-more1 {
-  top: 250px;
+  top: 411px;
   left: 5px;
   font-weight: 600;
   width: 623px;
 }
 .open-source-b {
-  top: 89px;
+  top: 270px;
   left: 10px;
   font-size: 24px;
   width: 610px;
 }
 .experiment-customize-improve {
   position: absolute;
-  top: 133px;
+  top: 321px;
   left: 111px;
   line-height: 28px;
   font-weight: 500;
@@ -1087,11 +1087,11 @@ body {
 }
 
 .you-can-either-build-your-cryp {
-  top: 14.59px;
+  /*top: 14.59px;
   left: 475px;
   line-height: 28px;
   font-weight: 600;
-  width: 644px;
+  width: 644px;*/
   display: none;
   position: absolute;
   background-color: #f9f9f9;
