@@ -25,7 +25,7 @@ body {
   background-color: #1f2032;
   width: 1282px;
   height: 670px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
   transform-origin: 0 0;
 }
 .mask-group-icon {
@@ -185,7 +185,7 @@ body {
   background-color: #1f2032;
   width: 630px;
   height: 320px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
   transform-origin: 0 0;
 }
 .polygon-icon {
@@ -249,7 +249,7 @@ body {
   background-color: #1f2032;
   width: 822px;
   height: 185px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
   transform-origin: 0 0;
 }
 .vector-icon {
@@ -663,7 +663,7 @@ body {
   left: 931.85px;
   display: inline-block;
   width: 75.48px;
-  transform: rotate(-15deg);
+  /* transform: rotate(-15deg); */
   transform-origin: 0 0;
 }
 .ellipse-icon8 {
@@ -680,7 +680,7 @@ body {
   font-size: 20px;
   display: inline-block;
   width: 97.36px;
-  transform: rotate(-15deg);
+  /* transform: rotate(-15deg); */
   transform-origin: 0 0;
 }
 .ellipse-icon9,
@@ -838,7 +838,7 @@ body {
   background-color: #1f2032;
   width: 398px;
   height: 210px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
   transform-origin: 0 0;
 }
 .hybrid-open-source-with-combin {
@@ -874,7 +874,7 @@ body {
   border-radius: 24px;
   background-color: #1f2032;
   height: 155px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
   transform-origin: 0 0;
 }
 .easily-customizable-user-inter {
@@ -957,7 +957,7 @@ body {
   border-radius: 24px;
   background-color: #1f2032;
   height: 240px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
   transform-origin: 0 0;
 }
 .group-icon4 {
@@ -1052,7 +1052,7 @@ body {
   background-color: #1f2032;
   width: 822px;
   height: 230px;
-  transform: rotate(-180deg);
+  /* transform: rotate(-180deg); */
   transform-origin: 0 0;
 }
 .vector-icon6 {
@@ -1099,7 +1099,7 @@ body {
   background-color: #1f2032;
   width: 822px;
   height: 85px;
-  transform: rotate(-180deg);
+  /* transform: rotate(-180deg); */
 }
 .vector-icon7 {
   position: absolute;
@@ -1123,7 +1123,7 @@ body {
   left: 401.87px;
   width: 815.99px;
   height: 294.85px;
-  transform: rotate(-15deg);
+  /* transform: rotate(-15deg); */
   font-size: 18px;
 }
 .group-div29,
@@ -1147,7 +1147,7 @@ body {
   background-color: #1f2032;
   width: 822px;
   height: 85px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
 }
 .group-div32,
 .group-div33 {
@@ -1156,7 +1156,7 @@ body {
   left: 263.75px;
   width: 815.99px;
   height: 294.85px;
-  transform: rotate(-15deg);
+  /* transform: rotate(-15deg); */
   transform-origin: 0 0;
   font-size: 18px;
 }
