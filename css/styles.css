@@ -244,7 +244,7 @@ body {
 .rectangle-div4 {
   position: absolute;
   top: 94px;
-  left: 822px;
+  left: 65.5px;
   border-radius: 24px;
   background-color: #1f2032;
   width: 822px;
@@ -663,7 +663,7 @@ body {
   left: 931.85px;
   display: inline-block;
   width: 75.48px;
-  /* transform: rotate(-15deg); */
+  transform: rotate(-15deg);
   transform-origin: 0 0;
 }
 .ellipse-icon8 {
@@ -680,7 +680,7 @@ body {
   font-size: 20px;
   display: inline-block;
   width: 97.36px;
-  /* transform: rotate(-15deg); */
+  transform: rotate(-15deg);
   transform-origin: 0 0;
 }
 .ellipse-icon9,
@@ -1047,7 +1047,7 @@ body {
 .rectangle-div19 {
   position: absolute;
   top: -15.41px;
-  left: 879.5px;
+  left: 65.5px;
   border-radius: 24px;
   background-color: #1f2032;
   width: 822px;
@@ -1086,7 +1086,7 @@ body {
 }
 .group-div30 {
   top: 615.5px;
-  left: 365.62px;
+  left: 65.62px;
   width: 853.52px;
   height: 434.91px;
   /* transform: rotate(-15deg); */
@@ -1142,7 +1142,7 @@ body {
 }
 .rectangle-div21 {
   top: -5.69px;
-  left: 843.25px;
+  left: 65.25px;
   border-radius: 24px;
   background-color: #1f2032;
   width: 822px;
