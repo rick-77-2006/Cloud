@@ -77,7 +77,23 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.1);
   box-sizing: border-box;
   height: 43px;
+
+  
+    /* display: inline-block; */
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  /* border-radius: 4px; */
+  padding: 10px 32px;
+  /* border: 1px solid transparent; */
+  transition-property: background-color;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .schedule-a-demo {
   top: 22px;
   display: inline-block;
@@ -1202,18 +1218,42 @@ body {
   text-align: center;
   width: 623px;
 }
-.send-request-b {
-  top: 21px;
+/* .send-request-b {
+  top: 50px;
   left: 0;
   width: 200px;
+
+  display: inline-block;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 10px 32px;
+  border: 1px solid transparent;
+  transition-property: background-color;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  
+  color: var(--hero-title-color);
+  background-color: var(--logo-color);
+  
+} */
+
+.send-request-b:hover,
+.send-request-b:focus {
+    background-color: var(--button-background-hover);
 }
+
 .group-div34 {
   position: absolute;
   top: 4914px;
   left: 285px;
   width: 200px;
   height: 65px;
-  text-align: center;
+  /* text-align: center; */
 }
 .iphone-14-pro {
   position: absolute;
@@ -1251,8 +1291,17 @@ body {
   font-family: Montserrat;
 }
 
+:root {
+  --main-color: #212121;
+  --secondary-color: #757575;
+  --footer-item-color: rgba(255, 255, 255, 0.6);
+  --logo-color: #2196f3;
+  --hero-background-color: #2f303a;
+  --button-background-color: #f5f4fa;
+  --button-background-hover: #188ce8;
+}
 /*
-.btn {
+.send-request-b {
   display: inline-block;
   font-family: inherit;
   font-weight: 700;
