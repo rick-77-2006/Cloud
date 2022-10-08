@@ -151,10 +151,10 @@ body {
 }
 .mask-group-2 {
   position: absolute;
-  top: 115px;
-  left: 701px;
-  width: 1425px;
-  height: 1750px;
+  top: 120px;
+  left: 773px;
+  width: 909px;
+  height: 910px;
   object-fit: cover;
 }
 
@@ -1061,11 +1061,11 @@ body {
 .vector-icon6 {
   position: absolute;
   top: 25.53px;
-  left: 829.97px;
+  left: 1124.97px;
   width: 9.06px;
   height: 5.59px;
 }
-.how-to-launch-your-cryptocurre,
+
 .you-can-either-build-your-cryp {
   position: absolute;
   top: 14.59px;
@@ -1075,13 +1075,37 @@ body {
   display: inline-block;
   width: 644px;
 }
-.you-can-either-build-your-cryp {
-  top: 65.59px;
-  font-size: 16px;
-  font-weight: 500;
-  width: 729px;
-  opacity: 0.6;
+
+.how-to-launch-your-cryptocurre {
+  top: 14.59px;
+  left: 475px;
+  line-height: 28px;
+  font-weight: 600;
+  width: 644px;
+  position: relative;
+  display: inline-block;
 }
+
+.you-can-either-build-your-cryp {
+  top: 14.59px;
+  left: 475px;
+  line-height: 28px;
+  font-weight: 600;
+  width: 644px;
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.how-to-launch-your-cryptocurre:hover
+.you-can-either-build-your-cryp {
+  display: block;
+}
+
+
 .group-div30,
 .rectangle-div20 {
   position: absolute;
@@ -1206,7 +1230,7 @@ body {
 .vector-icon10,
 .vector-icon11 {
   position: absolute;
-  top: 4309.54px;
+  top: 4382.51px;
   left: 733.5px;
   width: 1347.8px;
   height: 898px;
@@ -1226,4 +1250,3 @@ body {
   color: #fff;
   font-family: Montserrat;
 }
-
