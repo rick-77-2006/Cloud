@@ -542,6 +542,8 @@ body {
   left: 256px;
   font-size: 15px;
   width: 505px;
+  display: flex;
+  
 }
 .en-div {
   top: 0;
