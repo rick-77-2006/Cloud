@@ -703,7 +703,7 @@ body {
 .architecture-overview-b {
   position: absolute;
   top: 0;
-  left: 0;
+  left: -3px;
   display: inline-block;
   width: 685px;
 }
@@ -761,8 +761,8 @@ body {
   top: 346px;
 }
 .group-div19 {
-  top: 271px;
-  left: 1102px;
+  top: 454px;
+  left: 1107px;
   width: 685px;
   height: 390px;
   text-align: left;
@@ -836,7 +836,7 @@ body {
 .rectangle-div9 {
   position: absolute;
   top: 0;
-  left: 398px;
+  left: 7px;
   border-radius: 24px;
   background-color: #1f2032;
   width: 398px;
@@ -873,7 +873,7 @@ body {
 }
 .rectangle-div10 {
   top: 0;
-  left: 398px;
+  left: 5px;
   border-radius: 24px;
   background-color: #1f2032;
   height: 155px;
@@ -956,7 +956,7 @@ body {
 }
 .rectangle-div17 {
   top: 0;
-  left: 1531.83px;
+  left: 1139.83px;
   border-radius: 24px;
   background-color: #1f2032;
   height: 240px;
@@ -1195,7 +1195,7 @@ body {
   position: absolute;
   height: 13.28%;
   width: 18.46%;
-  top: 88.93%;
+  top: 87.00%;
   right: 23.14%;
   bottom: -2.21%;
   left: 58.4%;
@@ -1206,13 +1206,13 @@ body {
 .vector-icon10,
 .vector-icon11 {
   position: absolute;
-  top: 4461.54px;
+  top: 4309.54px;
   left: 733.5px;
   width: 1347.8px;
   height: 898px;
 }
 .vector-icon11 {
-  top: 4476.51px;
+  top: 4317.51px;
   left: 748.5px;
 }
 .ver1-div {
