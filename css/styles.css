@@ -554,11 +554,18 @@ body {
   display: inline-block;
 }
 .solutions-pricing-resources-fa {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+
+
+
   top: 48px;
   left: 256px;
   font-size: 15px;
   width: 505px;
   display: flex;
+  
   
 }
 .en-div {
@@ -1315,4 +1322,11 @@ p {
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
+}
+
+.item {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
 }
