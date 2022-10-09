@@ -20,7 +20,7 @@ body {
 }
 .rectangle-div {
   top: 381px;
-  left: 1868px;
+  left: 573px;
   border-radius: 46px;
   background-color: #1f2032;
   width: 1282px;
@@ -1214,7 +1214,7 @@ body {
   text-align: center;
   width: 623px;
 }
-/* .send-request-b {
+.send-request-b {
   top: 50px;
   left: 0;
   width: 200px;
@@ -1236,7 +1236,7 @@ body {
   color: var(--hero-title-color);
   background-color: var(--logo-color);
   
-} */
+}
 
 .send-request-b:hover,
 .send-request-b:focus {
@@ -1287,7 +1287,7 @@ body {
   font-family: Montserrat;
 }
 
-:root {
+/* :root {
   --main-color: #212121;
   --secondary-color: #757575;
   --footer-item-color: rgba(255, 255, 255, 0.6);
@@ -1295,7 +1295,7 @@ body {
   --hero-background-color: #2f303a;
   --button-background-color: #f5f4fa;
   --button-background-hover: #188ce8;
-}
+} */
 /*
 .send-request-b {
   display: inline-block;
@@ -1315,7 +1315,7 @@ body {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 */
-
+/* 
 p {
   display: block;
   margin-block-start: 1em;
@@ -1329,4 +1329,4 @@ p {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-}
+} */
